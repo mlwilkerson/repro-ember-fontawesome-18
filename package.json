@@ -19,6 +19,8 @@
     "test": "ember try:each"
   },
   "dependencies": {
+    "@fortawesome/ember-fontawesome": "0.0.11",
+    "@fortawesome/fontawesome-free-solid": "^5.0.8",
     "ember-cli-babel": "^6.6.0"
   },
   "devDependencies": {
